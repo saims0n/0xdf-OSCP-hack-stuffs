@@ -1,0 +1,75 @@
+#!/bin/bash
+
+echo "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+figlet          "By Saims0n" ; echo "Follow me on twitter @saims0n  Credits-> 0xdf_"
+echo "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+echo "You have to Install lynx in order to check out Hacks Stuff : apt install lynx "
+
+read -p "Enter The Machine Name: " mcn
+
+#var=$(cat symplyfied_htb | grep -i "$mcn" | grep html\"$)
+
+#echo $var
+
+mcname=$( cat 0xdf_sorted | grep -i $mcn )
+
+if [ -z "$mcname" ]
+then echo " No Match  found "; exit 0
+else 
+  echo "We've Fond The Machine : " $mcname
+fi 
+
+echo  "[0]:   Do You Want To Check Walkthrough  : " 
+echo  "[1]:   Do You Want To Check Recon : "
+echo  "[2]:   Do You Need User or Root : "
+echo  "[3]:   Beyond Root If Exists: "
+echo  "[4]:   Search Your Specific Keyword Like (cron,uplod..) : "
+
+read -p "Enter number: " request
+
+function walkthrough() 
+{
+link=($( echo $mcname | cut -d " " -f3 ))
+target=$( echo $link | cut -d '"' -f2 )
+lynx -accept_all_cookies -use_mouse $target 
+}
+
+
+function global()
+{
+link=($( echo $mcname | cut -d " " -f3 ))
+target=$( echo $link | cut -d '"' -f2 )
+}
+
+case $request in
+	"0")
+		echo "Wait For Walkthrough of : '\n'  $mcname "
+		walkthrough
+
+		;;
+	"1")
+		echo "Recon"
+		global
+		curl -s $target | grep -i -C 30 "Recon"  | sed 's/<\/*[^>]*>//g'
+		;;
+	"2")
+		echo "User"
+		global
+		curl -s $target | grep -i -C 20 "Shell as"  | sed 's/<\/*[^>]*>//g'
+		;;
+	"3")
+		echo "Beyond Root"
+		global
+		curl -s $target | grep -i -C 20 "Beyond root"  | sed 's/<\/*[^>]*>//g'
+		;;
+	"4")   	
+	        global
+		read -p "Lets Us Eneter the Keyword : " newkey
+		curl -s $target | grep -i -C 10 $newkey  | sed 's/<\/*[^>]*>//g'
+		;;
+	*)
+esac
+
+
+
+

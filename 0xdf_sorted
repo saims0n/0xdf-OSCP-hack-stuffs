@@ -1,0 +1,377 @@
+"apt-htb"
+          Buffer Overflow in HTB Smasher
+"ctf-htb"
+          Debugging CME, PSexec on HTB: Resolute
+          Digging into PSExec with HTB Nest
+          HTB: Academy
+          HTB: Access
+          HTB: Active
+          HTB: Admirer
+          HTB: AI
+          HTB: Apocalyst
+          HTB: APT
+          HTB: Aragog
+          HTB: Arctic
+          HTB: Arkham
+          HTB: Bank
+          HTB: Bankrobber
+          HTB: Bart
+          HTB: Bashed
+          HTB: Bastard
+          HTB: Bastion
+          HTB: Beep
+          HTB: BigHead
+          HTB: Bitlab
+          HTB: Blackfield
+          HTB: Blocky
+          HTB: Blunder
+          HTB: Book
+          HTB: Bounty
+          HTB: Buff
+          HTB: Cache
+          HTB: Calamity
+          HTB: Canape
+          HTB: Carrier
+          HTB: Cascade
+          HTB: Celestial
+          HTB: Chainsaw
+          HTB: Chaos
+          HTB: Charon
+          HTB: Chatterbox
+          HTB: Compromised
+          HTB: Conceal
+          HTB: Control
+          HTB: Craft
+          HTB: CrimeStoppers
+          HTB: Cronos
+          HTB: CrossFit
+          HTB: CTF
+          HTB: Curling
+          HTB: Dab
+          HTB: Devel
+          HTB: DevOops
+          HTB: Doctor
+          HTB: Dropzone
+          HTB: Dyplesher
+          HTB: Ellingson
+          HTB Endgame: P.O.O.
+          HTB Endgame: XEN
+          HTB: Ethereal
+          HTB: Ethereal Attacking Password Box
+          HTB: Ethereal Shell Development
+          HTB: Europa
+          HTB: Falafel
+          HTB: Fatty
+          HTB: Feline
+          HTB: FluJab
+          HTB: FluxCapacitor
+          HTB: Forest
+          HTB: Fortune
+          HTB: ForwardSlash
+          HTB: FriendZone
+          HTB: Frolic
+          HTB: Fuse
+          HTB: Ghoul
+          HTB: Giddy
+          HTB: Grandpa
+          HTB: Granny
+          HTB: Hackback
+          HTB: Haircut
+          HTB: Hawk
+          HTB: Haystack
+          HTB: Heist
+          HTB: Help
+          HTB: Helpline
+          HTB: Helpline Kali
+          HTB: Helpline Windows
+          HTB: Holiday
+          HTB: Intense
+          HTB: Irked
+          HTB: Jarvis
+          HTB: Jerry
+          HTB: Jewel
+          HTB: Joker
+          HTB: Json
+          HTB: Kryptos
+          HTB: Laboratory
+          HTB: LaCasaDePapel
+          HTB: Lame
+          HTB: Laser
+          HTB: Lazy
+          HTB: Legacy
+          HTB: Lightweight
+          HTB: Luanne
+          HTB: Luke
+          HTB: Magic
+          HTB: Mango
+          HTB: Mantis
+          HTB: Mischief
+          HTB: Mischief Additional Roots
+          HTB: Monteverde
+          HTB: More Lame
+          HTB: Multimaster
+          HTB: Nest
+          HTB: Netmon
+          HTB: Networked
+          HTB: Nibbles
+          HTB: Nineveh
+          HTB: Obscurity
+          HTB: October
+          HTB: Olympus
+          HTB: Omni
+          HTB: OneTwoSeven
+          HTB: Oouch
+          HTB: OpenAdmin
+          HTB: OpenKeyS
+          HTB: Optimum
+          HTB: Oz
+          HTB: Passage
+          HTB: Patents
+          HTB: Player
+          HTB: PlayerTwo
+          HTB: Poison
+          HTB: Popcorn
+          HTB: Postman
+          HTB Pwnbox Review
+          HTB: Querier
+          HTB: Quick
+          HTB: RE
+          HTB: RedCross
+          HTB: Reddish
+          HTB: Reel
+          HTB: Reel2
+          HTB: Registry
+          HTB: Remote
+          HTB: Resolute
+          HTB: Rope
+          HTB: RopeTwo
+          HTB: Safe
+          HTB: Sauna
+          HTB: Scavenger
+          HTB: SecNotes
+          HTB: Sense
+          HTB: ServMon
+          HTB: Shrek
+          HTB: Silo
+          HTB: Sizzle
+          HTB: Smasher
+          HTB: Smasher2
+          HTB: Sneaky
+          HTB: SneakyMailer
+          HTB: Sniper
+          HTB: Sniper Beyond Root
+          HTB: SolidState
+          HTB: Stratosphere
+          HTB: Sunday
+          HTB: SwagShop
+          HTB: Tabby
+          HTB: TartarSauce
+          HTB TartarSauce: backuperer Follow-Up
+          HTB: Teacher
+          HTB: Tenten
+          HTB: Time
+          HTB: Traceback
+          HTB: Travel
+          HTB: Traverxec
+          HTB: Unattended
+          HTB: Unbalanced
+          HTB: Valentine
+          HTB: Vault
+          HTB: Waldo
+          HTB: Wall
+          HTB: Worker
+          HTB: Writeup
+          HTB: Ypuffy
+          HTB: Zetta
+          HTB: Zipper
+"https://0xdf.gitlab.io/2018/04/29/htb-bashed.html"
+"https://0xdf.gitlab.io/2018/05/12/htb-fluxcapacitor.html"
+"https://0xdf.gitlab.io/2018/06/03/htb-crimestoppers.html"
+"https://0xdf.gitlab.io/2018/06/18/htb-chatterbox.html"
+"https://0xdf.gitlab.io/2018/06/23/htb-falafel.html"
+"https://0xdf.gitlab.io/2018/06/30/htb-nibbles.html"
+"https://0xdf.gitlab.io/2018/07/07/second-order-sql-injection-on-htb-nightmare.html"
+"https://0xdf.gitlab.io/2018/07/15/htb-bart.html"
+"https://0xdf.gitlab.io/2018/07/21/htb-aragog.html"
+"https://0xdf.gitlab.io/2018/07/28/htb-valentine.html"
+"https://0xdf.gitlab.io/2018/08/04/htb-silo.html"
+"https://0xdf.gitlab.io/2018/08/25/htb-celestial.html"
+"https://0xdf.gitlab.io/2018/09/01/htb-stratosphere.html"
+"https://0xdf.gitlab.io/2018/09/08/htb-poison.html"
+"https://0xdf.gitlab.io/2018/09/15/htb-canape.html"
+"https://0xdf.gitlab.io/2018/09/22/htb-olympus.html"
+"https://0xdf.gitlab.io/2018/09/29/htb-sunday.html"
+"https://0xdf.gitlab.io/2018/10/13/htb-devoops.html"
+"https://0xdf.gitlab.io/2018/10/20/htb-tartarsauce.html"
+"https://0xdf.gitlab.io/2018/10/21/htb-tartarsauce-part-2-backuperer-follow-up.html"
+"https://0xdf.gitlab.io/2018/10/27/htb-bounty.html"
+"https://0xdf.gitlab.io/2018/11/03/htb-dropzone.html"
+"https://0xdf.gitlab.io/2018/11/10/htb-reel.html"
+"https://0xdf.gitlab.io/2018/11/13/malware-analysis-phishing-docs-from-htb-reel.html"
+"https://0xdf.gitlab.io/2018/11/17/htb-jerry.html"
+"https://0xdf.gitlab.io/2018/11/24/htb-smasher-bof.html"
+"https://0xdf.gitlab.io/2018/11/24/htb-smasher.html"
+"https://0xdf.gitlab.io/2018/11/30/htb-hawk.html"
+"https://0xdf.gitlab.io/2018/12/08/htb-active.html"
+"https://0xdf.gitlab.io/2018/12/15/htb-waldo.html"
+"https://0xdf.gitlab.io/2019/01/05/htb-mischief.html"
+"https://0xdf.gitlab.io/2019/01/08/htb-mischief-more-root.html"
+"https://0xdf.gitlab.io/2019/01/12/htb-oz.html"
+"https://0xdf.gitlab.io/2019/01/19/htb-secnotes.html"
+"https://0xdf.gitlab.io/2019/01/26/htb-reddish.html"
+"https://0xdf.gitlab.io/2019/02/02/htb-dab.html"
+"https://0xdf.gitlab.io/2019/02/09/htb-ypuffy.html"
+"https://0xdf.gitlab.io/2019/02/16/htb-giddy.html"
+"https://0xdf.gitlab.io/2019/02/21/htb-legacy.html"
+"https://0xdf.gitlab.io/2019/02/23/htb-zipper.html"
+"https://0xdf.gitlab.io/2019/03/02/htb-access.html"
+"https://0xdf.gitlab.io/2019/03/05/htb-devel.html"
+"https://0xdf.gitlab.io/2019/03/06/htb-granny.html"
+"https://0xdf.gitlab.io/2019/03/09/htb-ethereal.html"
+"https://0xdf.gitlab.io/2019/03/09/htb-ethereal-pbox.html"
+"https://0xdf.gitlab.io/2019/03/09/htb-ethereal-shell.html"
+"https://0xdf.gitlab.io/2019/03/12/htb-bastard.html"
+"https://0xdf.gitlab.io/2019/03/15/htb-ethereal-cor.html"
+"https://0xdf.gitlab.io/2019/03/16/htb-carrier.html"
+"https://0xdf.gitlab.io/2019/03/23/htb-frolic.html"
+"https://0xdf.gitlab.io/2019/03/26/htb-october.html"
+"https://0xdf.gitlab.io/2019/03/30/htb-curling.html"
+"https://0xdf.gitlab.io/2019/04/06/htb-vault.html"
+"https://0xdf.gitlab.io/2019/04/13/htb-redcross.html"
+"https://0xdf.gitlab.io/2019/04/20/htb-teacher.html"
+"https://0xdf.gitlab.io/2019/04/27/htb-irked.html"
+"https://0xdf.gitlab.io/2019/05/04/htb-bighead-bof.html"
+"https://0xdf.gitlab.io/2019/05/04/htb-bighead.html"
+"https://0xdf.gitlab.io/2019/05/11/htb-lightweight.html"
+"https://0xdf.gitlab.io/2019/05/18/htb-conceal.html"
+"https://0xdf.gitlab.io/2019/05/25/htb-chaos.html"
+"https://0xdf.gitlab.io/2019/06/01/htb-sizzle.html"
+"https://0xdf.gitlab.io/2019/06/08/htb-help.html"
+"https://0xdf.gitlab.io/2019/06/15/htb-flujab.html"
+"https://0xdf.gitlab.io/2019/06/22/htb-querier.html"
+"https://0xdf.gitlab.io/2019/06/29/htb-netmon.html"
+"https://0xdf.gitlab.io/2019/07/06/htb-hackback.html"
+"https://0xdf.gitlab.io/2019/07/13/htb-friendzone.html"
+"https://0xdf.gitlab.io/2019/07/20/htb-ctf.html"
+"https://0xdf.gitlab.io/2019/07/27/htb-lacasadepapel.html"
+"https://0xdf.gitlab.io/2019/08/03/htb-fortune.html"
+"https://0xdf.gitlab.io/2019/08/10/htb-arkham.html"
+"https://0xdf.gitlab.io/2019/08/17/htb-helpline.html"
+"https://0xdf.gitlab.io/2019/08/17/htb-helpline-kali.html"
+"https://0xdf.gitlab.io/2019/08/17/htb-helpline-win.html"
+"https://0xdf.gitlab.io/2019/08/24/htb-unattended.html"
+"https://0xdf.gitlab.io/2019/08/31/htb-onetwoseven.html"
+"https://0xdf.gitlab.io/2019/09/07/htb-bastion.html"
+"https://0xdf.gitlab.io/2019/09/11/htb-holiday.html"
+"https://0xdf.gitlab.io/2019/09/14/htb-luke.html"
+"https://0xdf.gitlab.io/2019/09/21/htb-kryptos.html"
+"https://0xdf.gitlab.io/2019/09/28/htb-swagshop.html"
+"https://0xdf.gitlab.io/2019/10/05/htb-ghoul.html"
+"https://0xdf.gitlab.io/2019/10/12/htb-writeup.html"
+"https://0xdf.gitlab.io/2019/10/19/htb-ellingson.html"
+"https://0xdf.gitlab.io/2019/10/26/htb-safe.html"
+"https://0xdf.gitlab.io/2019/11/02/htb-haystack.html"
+"https://0xdf.gitlab.io/2019/11/09/htb-jarvis.html"
+"https://0xdf.gitlab.io/2019/11/16/htb-networked.html"
+"https://0xdf.gitlab.io/2019/11/23/htb-chainsaw.html"
+"https://0xdf.gitlab.io/2019/11/26/htb-chainsaw-rootkit.html"
+"https://0xdf.gitlab.io/2019/11/30/htb-heist.html"
+"https://0xdf.gitlab.io/2019/12/07/htb-wall.html"
+"https://0xdf.gitlab.io/2019/12/14/htb-smasher2.html"
+"https://0xdf.gitlab.io/2020/01/04/htb-craft.html"
+"https://0xdf.gitlab.io/2020/01/11/htb-bitlab.html"
+"https://0xdf.gitlab.io/2020/01/18/htb-player.html"
+"https://0xdf.gitlab.io/2020/01/25/htb-ai.html"
+"https://0xdf.gitlab.io/2020/01/26/digging-into-psexec-with-htb-nest.html"
+"https://0xdf.gitlab.io/2020/02/01/htb-re.html"
+"https://0xdf.gitlab.io/2020/02/15/htb-json.html"
+"https://0xdf.gitlab.io/2020/02/22/htb-zetta.html"
+"https://0xdf.gitlab.io/2020/02/29/htb-scavenger.html"
+"https://0xdf.gitlab.io/2020/03/07/htb-bankrobber.html"
+"https://0xdf.gitlab.io/2020/03/14/htb-postman.html"
+"https://0xdf.gitlab.io/2020/03/21/htb-forest.html"
+"https://0xdf.gitlab.io/2020/03/28/htb-sniper.html"
+"https://0xdf.gitlab.io/2020/04/04/htb-registry.html"
+"https://0xdf.gitlab.io/2020/04/07/htb-lame.html"
+"https://0xdf.gitlab.io/2020/04/08/htb-lame-more.html"
+"https://0xdf.gitlab.io/2020/04/09/htb-sniper-beyondroot.html"
+"https://0xdf.gitlab.io/2020/04/11/htb-traverxec.html"
+"https://0xdf.gitlab.io/2020/04/14/htb-cronos.html"
+"https://0xdf.gitlab.io/2020/04/18/htb-mango.html"
+"https://0xdf.gitlab.io/2020/04/22/htb-nineveh.html"
+"https://0xdf.gitlab.io/2020/04/25/htb-control.html"
+"https://0xdf.gitlab.io/2020/04/30/htb-solidstate.html"
+"https://0xdf.gitlab.io/2020/05/02/htb-openadmin.html"
+"https://0xdf.gitlab.io/2020/05/09/htb-obscurity.html"
+"https://0xdf.gitlab.io/2020/05/16/htb-patents.html"
+"https://0xdf.gitlab.io/2020/05/19/htb-arctic.html"
+"https://0xdf.gitlab.io/2020/05/23/htb-rope.html"
+"https://0xdf.gitlab.io/2020/05/28/htb-grandpa.html"
+"https://0xdf.gitlab.io/2020/05/30/htb-resolute.html"
+"https://0xdf.gitlab.io/2020/06/06/htb-nest.html"
+"https://0xdf.gitlab.io/2020/06/13/htb-monteverde.html"
+"https://0xdf.gitlab.io/2020/06/20/htb-servmon.html"
+"https://0xdf.gitlab.io/2020/06/23/htb-popcorn.html"
+"https://0xdf.gitlab.io/2020/06/27/htb-playertwo.html"
+"https://0xdf.gitlab.io/2020/06/30/htb-blocky.html"
+"https://0xdf.gitlab.io/2020/07/04/htb-forwardslash.html"
+"https://0xdf.gitlab.io/2020/07/07/htb-bank.html"
+"https://0xdf.gitlab.io/2020/07/11/htb-book.html"
+"https://0xdf.gitlab.io/2020/07/14/htb-tenten.html"
+"https://0xdf.gitlab.io/2020/07/18/htb-sauna.html"
+"https://0xdf.gitlab.io/2020/07/22/htb-shrek.html"
+"https://0xdf.gitlab.io/2020/07/25/htb-cascade.html"
+"https://0xdf.gitlab.io/2020/07/29/htb-lazy.html"
+"https://0xdf.gitlab.io/2020/08/01/htb-oouch.html"
+"https://0xdf.gitlab.io/2020/08/04/htb-pwnbox-review.html"
+"https://0xdf.gitlab.io/2020/08/08/htb-fatty.html"
+"https://0xdf.gitlab.io/2020/08/13/htb-joker.html"
+"https://0xdf.gitlab.io/2020/08/15/htb-traceback.html"
+"https://0xdf.gitlab.io/2020/08/22/htb-magic.html"
+"https://0xdf.gitlab.io/2020/08/27/htb-calamity.html"
+"https://0xdf.gitlab.io/2020/08/29/htb-quick.html"
+"https://0xdf.gitlab.io/2020/09/03/htb-mantis.html"
+"https://0xdf.gitlab.io/2020/09/05/htb-remote.html"
+"https://0xdf.gitlab.io/2020/09/10/htb-haircut.html"
+"https://0xdf.gitlab.io/2020/09/12/htb-travel.html"
+"https://0xdf.gitlab.io/2020/09/17/zerologon-owning-htb-machines-with-cve-2020-1472.html"
+"https://0xdf.gitlab.io/2020/09/19/htb-multimaster.html"
+"https://0xdf.gitlab.io/2020/09/26/htb-admirer.html"
+"https://0xdf.gitlab.io/2020/10/03/htb-blackfield.html"
+"https://0xdf.gitlab.io/2020/10/10/htb-cache.html"
+"https://0xdf.gitlab.io/2020/10/17/htb-blunder.html"
+"https://0xdf.gitlab.io/2020/10/24/htb-dyplesher.html"
+"https://0xdf.gitlab.io/2020/10/31/htb-fuse.html"
+"https://0xdf.gitlab.io/2020/11/07/htb-tabby.html"
+"https://0xdf.gitlab.io/2020/11/14/htb-intense.html"
+"https://0xdf.gitlab.io/2020/11/21/htb-buff.html"
+"https://0xdf.gitlab.io/2020/11/28/htb-sneakymailer.html"
+"https://0xdf.gitlab.io/2020/12/05/htb-unbalanced.html"
+"https://0xdf.gitlab.io/2020/12/12/htb-openkeys.html"
+"https://0xdf.gitlab.io/2020/12/19/htb-laser.html"
+"https://0xdf.gitlab.io/2021/01/09/htb-omni.html"
+"https://0xdf.gitlab.io/2021/01/16/htb-ropetwo.html"
+"https://0xdf.gitlab.io/2021/01/23/htb-compromised.html"
+"https://0xdf.gitlab.io/2021/01/30/htb-worker.html"
+"https://0xdf.gitlab.io/2021/02/02/htb-europa.html"
+"https://0xdf.gitlab.io/2021/02/06/htb-doctor.html"
+"https://0xdf.gitlab.io/2021/02/09/htb-apocalyst.html"
+"https://0xdf.gitlab.io/2021/02/13/htb-jewel.html"
+"https://0xdf.gitlab.io/2021/02/16/htb-charon.html"
+"https://0xdf.gitlab.io/2021/02/20/htb-feline.html"
+"https://0xdf.gitlab.io/2021/02/23/htb-beep.html"
+"https://0xdf.gitlab.io/2021/02/27/htb-academy.html"
+"https://0xdf.gitlab.io/2021/03/02/htb-sneaky.html"
+"https://0xdf.gitlab.io/2021/03/06/htb-passage.html"
+"https://0xdf.gitlab.io/2021/03/11/htb-sense.html"
+"https://0xdf.gitlab.io/2021/03/13/htb-reel2.html"
+"https://0xdf.gitlab.io/2021/03/17/htb-optimum.html"
+"https://0xdf.gitlab.io/2021/03/20/htb-crossfit.html"
+"https://0xdf.gitlab.io/2021/03/27/htb-luanne.html"
+"https://0xdf.gitlab.io/2021/04/03/htb-time.html"
+"https://0xdf.gitlab.io/2021/04/10/htb-apt.html"
+"https://0xdf.gitlab.io/2021/04/17/htb-laboratory.html"
+"magic-htb"
+          Malware Analysis: Phishing Docs from HTB Reel
+          Second Order SQL-Injection on HTB Nightmare
+          ZeroLogon - Owning HTB machines with CVE-2020-1472
