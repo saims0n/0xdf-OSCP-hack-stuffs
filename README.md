@@ -13,6 +13,11 @@ this tool has one dependency.... '''which is lynx'''
 YOu can download it with apt : apt install lynx 
 and you're done. happy hacking.
 
+***Varified By Author - 0xdf ***
 
+![image](https://user-images.githubusercontent.com/53370662/116778515-f6a53700-aa8f-11eb-919e-ecbe778572ec.png)
+
+
+***
 ![image](https://user-images.githubusercontent.com/53370662/115800032-6152d480-a3f7-11eb-8e44-db654da58456.png)
 
